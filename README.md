@@ -15,4 +15,4 @@ This dataset contains hourly weather data for a number of regions across Ireland
 This dataset contains data from 25 stations across 15 counties in Ireland. Hourly data is available for these weather stations from the start of their record keeping until the end of 2018. All data was sourced from the Irish meteorological service - Met Eireann.
 
 ### Load and Extract Temperature Data
-![SARIMAX Model Validation](https://raw.githubusercontent.com/Inxilco/portfolio/Assest/SARIMAX.png)
+![SARIMAX Model Validation]((https://github.com/Inxilco/portfolio/blob/main/Assest/SARIMAX.png))
