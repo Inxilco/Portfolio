@@ -1,8 +1,8 @@
 # Data Engineer
 
 ### Certification
-Professional Data Engineer 
-Professional Data Analyst
+- Professional Data Engineer 
+- Professional Data Analyst
 
 ### Education
 Engineering
@@ -23,7 +23,7 @@ Engineering
 
 ### Most Recent Work Experience
 #### Data Engineer - Dow Chemical Co
-* Developed ETL (Extract, Transform, Load) processes and workflows using Microsoft SQL Server and Snowflake,
+- Developed ETL (Extract, Transform, Load) processes and workflows using Microsoft SQL Server and Snowflake,
 automating data extraction and transformation tasks.
 - Used Azure Data Factory and Azure Databricks, to create data pipelines, streamlining data ingestion and
 processing.
