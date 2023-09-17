@@ -8,7 +8,20 @@ Professional Data Analyst
 Engineering
 
 ### Work Experience
-Associate Research Scientist @ Dow Chemical Co
+* Developed ETL (Extract, Transform, Load) processes and workflows using Microsoft SQL Server and Snowflake,
+automating data extraction and transformation tasks.
+- Used Azure Data Factory and Azure Databricks, to create data pipelines, streamlining data ingestion and
+processing.
+- Contributed to the technical development of the data warehouse, optimizing query performance and
+implementing data partitioning strategies.
+- Developed, benchmarked, and implemented a predictive ML model for fault detection in an FBR for PE
+- Contributed to the migration of on-premises data infrastructure to a cloud-based architecture, reducing
+operational costs and improving scalability.
+- Collaborated with cross-functional teams to design and implement data models that met specific business
+requirements, optimizing data storage and ensuring a seamless flow of data across various platforms.
+- Develop Inferential models and advanced controllers for High-Pressure Copolymer plants (in Python & JMP)
+- Build up process unit dashboard and reporting infrastructure from the ground up using Power BI and SQL
+- Work with stakeholders to review/understand requirements and process unit specifications.
 
 # Projects
 ### Timeseries Prediction 
