@@ -7,7 +7,22 @@ Professional Data Analyst
 ### Education
 Engineering
 
-### Work Experience
+### Skills
+- Data analysis and Applied Machine Learning (Google Data Analytics Certificate)
+- Certified Associate LabVIEW Developer
+- Data Architecture Design
+- Microsoft SQL Server
+- Snowflake
+- Microsoft Azure (Azure Data Factory, Azure Databricks)
+- ETL (Extract, Transform, Load) Processes
+- Cloud Platforms (AWS, GCP, Azure)
+- Data Warehousing and Modeling
+- Programming skills: Python, R, SQL, Scala, PowerBI, Tableau
+
+
+
+### Most Recent Work Experience
+#### Data Engineer - Dow Chemical Co
 * Developed ETL (Extract, Transform, Load) processes and workflows using Microsoft SQL Server and Snowflake,
 automating data extraction and transformation tasks.
 - Used Azure Data Factory and Azure Databricks, to create data pipelines, streamlining data ingestion and
@@ -23,7 +38,7 @@ requirements, optimizing data storage and ensuring a seamless flow of data acros
 - Build up process unit dashboard and reporting infrastructure from the ground up using Power BI and SQL
 - Work with stakeholders to review/understand requirements and process unit specifications.
 
-# Projects
+# Personal Projects
 ### Timeseries Prediction 
 The data was downloaded from Kaggle(here). [(here)](https://www.kaggle.com/datasets/conorrot/irish-weather-hourly-data)
 
