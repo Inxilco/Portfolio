@@ -1,7 +1,11 @@
-# Data Scientist
+# Data Engineer
+
+### Certification
+Professional Data Engineer 
+Professional Data Analyst
 
 ### Education
-Chemical Engineering PhD
+Engineering
 
 ### Work Experience
 Associate Research Scientist @ Dow Chemical Co
