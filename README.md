@@ -51,4 +51,4 @@ This dataset contains data from 25 stations across 15 counties in Ireland. Hourl
 
 ### Simple ETL Pipeline (orchestrated with Airflow)
 
-![](https://github.com/Inxilco/portfolio/blob/main/Assest/awsetl.png)
+![](Assest/awsetl.png)
